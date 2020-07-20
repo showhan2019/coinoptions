@@ -1,2 +1,8 @@
-# coinoptions
-Coin option is a high yield project
+给大家科普一下：
+
+etherscan.io (https://cn.etherscan.com）以太坊区块链官网地址分两种
+一种为：Address个人地址，有私钥和助记词，谁拥有私钥，谁就可以控制地址上的资产，转入转出。
+  
+第二种是：Contract合约地址，真正去中心化的合约地址是不可篡改，没有私钥，没有助记词，任何人不能篡改和盗用资产，只能通过合约执行。
+（coin options(币期权)就属于Contract合约地址）
+【币期权】全球首款智能合约DAPP，开启区块链期权去中心化金融领航者，以太坊进，以太坊结算，随进随出。
